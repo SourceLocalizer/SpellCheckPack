@@ -15,6 +15,16 @@
 	Лицензия на файлы: ru_RU_LICENSE
 	Описание файлов: ru_RU_README
 
+Файлы: ru_RU_firefox.aff, ru_RU_firefox.dic 
+	Скачать: https://addons.mozilla.org/ru/firefox/addon/russian-hunspell-dictionary/
+    Скачать: https://addons.cdn.mozilla.net/user-media/addons/347439/russian_hunspell_dictionary-1.0.20131101.1-typefix-fn+sm+tb+fx.xpi
+	Лицензия на файлы: Выпущено на условиях GNU Lesser General Public License, версия 3.0 (информация взята с сайта addons.mozilla.org)
+	Описание файлов: ru_RU_firefox_readme.txt
+	Примечание: Автор словаря: Александр Клюквин.
+	            Словарь из официального списка словарей для FireFox, поэтому в названии файлов, для удобства, указал название браузера. 
+	            В дальнейшем, если произойдет замена словарем другого автора, то он будет заменен на новый с тем-же названием firefox.
+				Второй словарь из списка пропустил, так как по объему он значительно уступает этому словарю и при этом примерно равен уже используемому в сборке.
+	            
 Файлы: de_DE_frami.aff, de_DE_frami.dic 
     Скачать: http://extensions.openoffice.org/node/1075/update
 	Скачать: https://sourceforge.net/projects/aoo-extensions/files/1075/14/dict-de_de-frami_2015-12-28.oxt/download
