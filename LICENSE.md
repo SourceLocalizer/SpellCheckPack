@@ -15,15 +15,20 @@
 	Лицензия на файлы: ru_RU_LICENSE
 	Описание файлов: ru_RU_README
 
-Файлы: ru_RU_firefox.aff, ru_RU_firefox.dic 
+Файлы: ru_RU_firefox1.aff, ru_RU_firefox1.dic 
+	Скачать: https://addons.mozilla.org/ru/firefox/addon/russian-spellchecking-dic-3703/
+    Скачать: https://addons.mozilla.org/firefox/downloads/latest/3703/addon-3703-latest.xpi
+	Лицензия на файлы: Выпущено на условиях Лицензия BSD (информация взята с сайта addons.mozilla.org)
+	Примечание: Автор словаря:  Alexander Slovesnik.
+	            Словарь из официального списка словарей для FireFox, поэтому в названии файлов, для удобства, указал название браузера и номер 1 как основного на момент первого добавления. 
+
+Файлы: ru_RU_firefox2.aff, ru_RU_firefox2.dic 
 	Скачать: https://addons.mozilla.org/ru/firefox/addon/russian-hunspell-dictionary/
     Скачать: https://addons.cdn.mozilla.net/user-media/addons/347439/russian_hunspell_dictionary-1.0.20131101.1-typefix-fn+sm+tb+fx.xpi
 	Лицензия на файлы: Выпущено на условиях GNU Lesser General Public License, версия 3.0 (информация взята с сайта addons.mozilla.org)
-	Описание файлов: ru_RU_firefox_readme.txt
+	Описание файлов: ru_RU_firefox2_readme.txt
 	Примечание: Автор словаря: Александр Клюквин.
-	            Словарь из официального списка словарей для FireFox, поэтому в названии файлов, для удобства, указал название браузера. 
-	            В дальнейшем, если произойдет замена словарем другого автора, то он будет заменен на новый с тем-же названием firefox.
-				Второй словарь из списка пропустил, так как по объему он значительно уступает этому словарю и при этом примерно равен уже используемому в сборке.
+	            Словарь из официального списка словарей для FireFox, поэтому в названии файлов, для удобства, указал название браузера и номер 2, т.к. он идет после основного словаря.
 	            
 Файлы: de_DE_frami.aff, de_DE_frami.dic 
     Скачать: http://extensions.openoffice.org/node/1075/update
